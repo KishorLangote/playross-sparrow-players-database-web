@@ -12,7 +12,7 @@ function App() {
     <Header />
     <main className="container py-4">
       <section className="text-center">
-        <img src="https://placehold.co/600x300?text=Players+Smilling" alt=""className="img-fuild" />
+        <img src="https://i.dailymail.co.uk/i/pix/2015/11/21/07/2E98A9A600000578-0-image-a-8_1448091310624.jpg" alt="football players image"className="img-fuild" style={{width:"1000px", height:"800px"}} />
       </section>
 
       <section className="text-center py-5">
